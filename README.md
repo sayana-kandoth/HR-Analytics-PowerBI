@@ -65,16 +65,16 @@ This project is a comprehensive HR Analytics dashboard built using Microsoft Pow
 ## 📷 Screenshots
 
 ### 👤 Employee Overview
-images/Employee Overview.png
+![Employee Overview](images/Employee%20Overview.png)
 
-### 📉 Attrition & Retention
-images/Attrition & Retention Dashboard.png
+### 📉 Attrition & Retention Dashboard
+![Attrition & Retention](images/Attrition%20%26%20Retention%20Dashboard.png)
 
 ### 📊 Performance Tracker
-images/Performance Tracker.png
+![Performance Tracker](images/Performance%20Tracker.png)
 
 ### 🧲 Recruitment Funnel
-images/Recruitment Funnel.png
+![Recruitment Funnel](images/Recruitment%20Funnel.png)
 
 ### 🎓 Training Dashboard
 ![Training Dashboard](images/Training%20Dashboard.png)
