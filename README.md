@@ -91,7 +91,8 @@ This project is a comprehensive HR Analytics dashboard built using Microsoft Pow
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file from this repository.
+1.Download the `.pbix` file from this repository.
+📥 [Click here to download the HR Analytics Power BI File](HR%20Analytics.pbix)
 2. Open it using [Microsoft Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
 3. Click through pages, slicers, and drillthroughs to explore various HR insights.
 4. Optional: Connect to your own HR dataset with a similar schema to reuse visuals.
