@@ -64,7 +64,8 @@ This project is a comprehensive HR Analytics dashboard built using Microsoft Pow
 
 ## 📷 Screenshots
 
-> 📍 Add screenshots of each page here. You can store them in a `/images` folder and embed like below:
+### 👤 Employee Overview
+
 
 
 
