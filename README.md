@@ -99,6 +99,19 @@ This project is a comprehensive HR Analytics dashboard built using Microsoft Pow
 
 ---
 
+## 📁 Dataset
+
+The dataset used for this project is a sample HR dataset containing employee records such as:
+
+- Employee ID, Department, Job Role
+- Gender, Age, Education, Experience
+- Performance Ratings, Training History
+- Attrition Flags
+
+📥 [Click here to download the dataset](data/HR_Analytics_Dataset.xlsx)
+
+---
+
 ## 🧠 Insights Derived
 
 - Departments with the highest attrition
