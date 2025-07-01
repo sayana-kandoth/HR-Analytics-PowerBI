@@ -129,6 +129,11 @@ Through this project, I practiced:
 
 ---
 
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE)
+
+
 ## 📬 Contact
 
 **Sayana Kandoth**  
