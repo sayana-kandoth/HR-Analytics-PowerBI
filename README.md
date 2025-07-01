@@ -80,3 +80,58 @@ images/Recruitment Funnel.png
 images/Training Dashboard.png
 
 
+---
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file from this repository.
+2. Open it using [Microsoft Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
+3. Click through pages, slicers, and drillthroughs to explore various HR insights.
+4. Optional: Connect to your own HR dataset with a similar schema to reuse visuals.
+
+---
+
+## 🧠 Insights Derived
+
+- Departments with the highest attrition
+- Distribution of training hours vs. performance ratings
+- Gender-wise and age-wise headcount distribution
+- Identification of top/bottom performing roles
+
+---
+
+## 🌐 Power BI Service (Optional)
+
+If you're publishing to Power BI Service:
+
+- Share reports in a workspace
+- Use dashboards to pin visuals
+- Add row-level security if needed
+- Share with stakeholders securely
+
+---
+
+## 📚 Learnings
+
+Through this project, I practiced:
+
+- Data modeling in star schema
+- Writing Intermediate DAX (IF, SWITCH, LOOKUPVALUE, RELATED)
+- Creating tooltip pages and drillthrough experiences
+- Using bookmarks for intuitive page navigation
+
+---
+
+## 📬 Contact
+
+**Sayana Kandoth**  
+*Microsoft D365FO Developer & Power BI Enthusiast*  
+📧sayanakandoth547@gmail.com
+🌐 https://www.linkedin.com/in/sayana-k/  
+
+
+---
+
+> ⭐ *If you find this project useful or inspiring, feel free to star the repository and connect with me!*
+
+
