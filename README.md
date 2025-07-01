@@ -37,6 +37,12 @@ This project is a comprehensive HR Analytics dashboard built using Microsoft Pow
    - Training Hours per Employee
    - Impact on Performance or Attrition
 
+   5. **Recruitment Funnel**
+   - Stages of Recruitment (Applied → Hired)
+   - Drop-off rate at each funnel level
+   - Hiring pipeline analysis
+
+
 ---
 
 ## 🛠️ Tools & Technologies
