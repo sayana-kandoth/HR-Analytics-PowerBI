@@ -77,7 +77,8 @@ images/Performance Tracker.png
 images/Recruitment Funnel.png
 
 ### 🎓 Training Dashboard
-images/Training Dashboard.png
+![Training Dashboard](images/Training%20Dashboard.png)
+
 
 
 ---
