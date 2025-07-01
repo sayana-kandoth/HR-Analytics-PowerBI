@@ -6,12 +6,16 @@ This project is a comprehensive HR Analytics dashboard built using Microsoft Pow
 
 ## 📁 File Structure
 
+
 📂 HR-Analytics-PowerBI
 │
-├── HR Aanlytics.pbix # Power BI report file
-├── README.md # Project documentation
-├── /images # Screenshots for GitHub display (optional)
-└── /data # Sample datasets (if publicly shareable)
+├── HR Analytics.pbix         # Power BI report file
+├── README.md                 # Project documentation
+├── LICENSE                   # Project license (MIT)
+├── /images                   # Screenshots for GitHub display
+└── /data
+    └── HR_Analytics_Dataset.xlsx   # Sample HR dataset used in the project
+
 
 ---
 
